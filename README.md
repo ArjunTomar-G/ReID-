@@ -48,7 +48,7 @@ Key parameters that can be adjusted:
 1. Update the `video_path` variable with your input video file path
 2. Run the script:
 ```bash
-python person_tracking.py
+python pipeline.py
 ```
 
 ## How It Works
